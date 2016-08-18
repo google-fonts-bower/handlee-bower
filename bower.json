@@ -1,0 +1,17 @@
+{
+    "name": "handlee-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Joe Prince"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/handlee-bower.git"
+    },
+    "description": "Handlee font",
+    "keywords": [
+        "font",
+        "HANDWRITING"
+    ]
+}
